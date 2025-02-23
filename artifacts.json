@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/StevDoms/NAM-VRI-artifact.git",
+    "project-repository": "https://github.com/StevDoms/SDGE_NAM_Analysis.git",
+    "project-website-url": "https://stevdoms.github.io/NAM-VRI/",
+    "project-website-code": "https://github.com/StevDoms/NAM-VRI.git"
 }
